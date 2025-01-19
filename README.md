@@ -14,3 +14,5 @@ A product management page for administrators to add, edit, or delete products.
 An order management page allowing administrators to view and handle orders.
 A user management page enabling administrators to manage user accounts.
 A dashboard showcasing total sales and key performance statistics.
+
+---
